@@ -17,8 +17,6 @@ I'm a 3rd-year Information Technology student passionate about the intersection 
 
 ### 📈 My GitHub Stats
 
-📈 My GitHub Stats
-
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theeDanBaniel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="350"/>
