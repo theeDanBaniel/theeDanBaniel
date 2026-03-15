@@ -1,14 +1,11 @@
-<img src="https://via.placeholder.com/800x200.png?text=Welcome+To+My+GitHub&bg=1a1b27&text_color=ffffff" alt="Profile Banner" width="100%">
-
-Hi, I'm [Your Name] 👋
+Hi, I'm Dan 👋
 
 About Me
-I'm a 3rd-year Information Technology student passionate about the intersection of software and physical hardware. As a visual learner, I thrive on hands-on development—whether that means configuring a Security Operations Center (SOC) homelab, writing modern web applications, or soldering components for custom IoT devices. I'm constantly breaking things to learn how they work, with a long-term goal of combining my IT foundation with advanced engineering to build secure, intelligent systems.
+I'm a 3rd-year Information Technology student passionate about the intersection of software and hardware. As a visual learner, I thrive on hands-on development—whether that means configuring a Security Operations Center (SOC) homelab, writing modern web applications, or soldering components for custom IoT devices. I'm constantly breaking things to learn how they work, with a long-term goal of combining my IT foundation with advanced engineering to build secure, intelligent systems.
 
 Areas of Focus
 * 🛡️ **Cybersecurity:** Red Team tooling, Blue Team defense, and homelab simulations.
 * ⚙️ **Hardware & IoT:** ESP32, Raspberry Pi, and building custom physical tools.
-* 💻 **Modern Web Dev:** TypeScript, Tailwind, and building secure full-stack applications.
 * 🧠 **Continuous Learning:** Always exploring new AI integrations and modern tech stacks.
 
 What I'm currently working on
