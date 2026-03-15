@@ -1,16 +1,27 @@
-## Hi there 👋
+<img src="https://via.placeholder.com/800x200.png?text=Welcome+To+My+GitHub&bg=1a1b27&text_color=ffffff" alt="Profile Banner" width="100%">
 
-<!--
-**theeDanBaniel/theeDanBaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm [Your Name] 👋
 
-Here are some ideas to get you started:
+About Me
+I'm a 3rd-year Information Technology student passionate about the intersection of software and physical hardware. As a visual learner, I thrive on hands-on development—whether that means configuring a Security Operations Center (SOC) homelab, writing modern web applications, or soldering components for custom IoT devices. I'm constantly breaking things to learn how they work, with a long-term goal of combining my IT foundation with advanced engineering to build secure, intelligent systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Areas of Focus
+* 🛡️ **Cybersecurity:** Red Team tooling, Blue Team defense, and homelab simulations.
+* ⚙️ **Hardware & IoT:** ESP32, Raspberry Pi, and building custom physical tools.
+* 💻 **Modern Web Dev:** TypeScript, Tailwind, and building secure full-stack applications.
+* 🧠 **Continuous Learning:** Always exploring new AI integrations and modern tech stacks.
+
+What I'm currently working on
+CYPHER: An intelligent multi-threat detection layer for existing CCTV systems.
+Marauder Custom Builds:** Modifying and upgrading ESP32 hardware with custom interfaces for network testing.
+Technical Write-ups:** Documenting homelab setups and creating step-by-step guides (like Kali Linux USB persistence).
+
+📈 My GitHub Stats
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theeDanBaniel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="350"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=theeDanBaniel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="400"/>
+
+</div>
